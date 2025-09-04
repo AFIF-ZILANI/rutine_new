@@ -1,0 +1,21 @@
+{
+  "name": "rutine",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AFIF-ZILANI/rutine_new#readme",
+  "bugs": {
+    "url": "https://github.com/AFIF-ZILANI/rutine_new/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFIF-ZILANI/rutine_new.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  }
+}
